@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I'm currently learning web development and security.
+🔭 I belong to the AI department of Gachon University.
 <!--
 **ez0o43/ez0o43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
