@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋👋
 
 🌱 I'm currently learning web development and security.
 🔭 I belong to the AI department of Gachon University.
